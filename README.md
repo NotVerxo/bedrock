@@ -1,4 +1,4 @@
-- ⚠️ READ IF YOU DON'T KNOW HOW TO USE IT
+# ⚠️ READ IF YOU DON'T KNOW HOW TO USE IT
 
 ALWAYS launch minecraft with the custom launcher, if you don't the game will just be a trial version again.
 
@@ -6,7 +6,7 @@ CLOSE your antivirus (doesn't matter which one, always close it because it think
 
 add the Launcher.exe file as an exclusion to prevent the windows defender from deleting it if it turns on by itself. (Heres a quick tutorial: https://www.youtube.com/watch?v=5v-HevRWzMk)
 
-- ❓ FAQ
+# ❓ FAQ
 
 Question: Is it a virus?
 Answer: No, the antiviruses detect it as a virus because of it's injector. The injector basically has some coding that allows itself to bypass the trial version so you get the full version. 
@@ -23,5 +23,4 @@ Answer: No, the multiplayer servers are in the official Minecraft database and u
 Question: Can I play with a friend who has bought Minecraft?
 Answer: Absolutely, you can play with anyone even if they are on PC or Console
 
-
-- Hope this helps for people who don't know some basic stuff, if you have more questions join my discord server https://discord.gg/qt6tF5hEMC <3
+## Hope this helps for people who don't know some basic stuff, if you have more questions join my discord server https://discord.gg/qt6tF5hEMC <3
